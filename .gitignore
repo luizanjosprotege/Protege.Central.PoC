@@ -1,0 +1,14 @@
+# build outputs
+bin/
+obj/
+build/
+publish/
+
+# credenciais locais - NUNCA commitar
+secrets.txt
+**/secrets.txt
+
+# ide
+.vs/
+.vscode/
+*.user
